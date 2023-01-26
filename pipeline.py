@@ -4,6 +4,6 @@ import pandas as pd
 
 print(sys.argv)
 
-day = sys.argv[2]
+day = sys.argv[1]
 
 print(f'Hello world! day = f{day}')
