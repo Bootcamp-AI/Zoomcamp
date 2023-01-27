@@ -61,7 +61,7 @@ if __name__ == '__main__':
     parser.add_argument('--host', help='host for postgres')
     parser.add_argument('--port', help='port for postgres')
     parser.add_argument('--db', help='db for postgres')
-    parser.add_argument('--table-name', help='table-name for postgres')
+    parser.add_argument('--table_name', help='table_name for postgres')
     parser.add_argument('--url', help='url csv')
 
 
